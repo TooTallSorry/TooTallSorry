@@ -1,45 +1,49 @@
-# 👋 Bienvenue sur mon profil GitHub !
-
+# 👋 Welcome to my GitHub profile!
 ## Jawed Cheballah
+### 🌟 About me
+Junior Data Scientist / Data Engineer specialized in **Python, SQL, ETL and LLM (RAG)**, with hands-on experience in data reliability, pipeline development and automated analysis. Currently doing an apprenticeship as an **AI Engineer**, deepening my skills in Data Science and Machine Learning.
 
-### 🌟 À propos de moi
-Étudiant en Licence Informatique à **CY Cergy Paris Université**, je suis passionné par le développement et l’analyse de données. Actuellement à la recherche d’un stage en **Data Science** ou **Machine Learning** pour une durée de 4 mois à partir d'avril 2025.
+### 🔧 Technical Skills
+- **Languages**: Python, SQL, Java, PHP, JavaScript, VBA
+- **Data & Machine Learning**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, MLflow
+- **Data Engineering & BI**: ETL, Power BI, Power Query, Data Cleaning
+- **AI & LLM**: LLM, RAG, Ollama, n8n
+- **Tools & Environment**: Git, Docker, REST API, Drupal CMS, MLOps
 
-### 🔧 Compétences Techniques
-- **Langages de Programmation** : Python, SQL (Postgres), Java, C, VBA, PowerBI, PHP, HTML/CSS, XML
-- **Machine Learning** : Bibliothèques Python (SKLEARN, Pandas, Numpy), analyse de données et modélisation
-- **Gestion de Données et API** : Création de bases de données, manipulation de données, intégration API
+### 🚀 Projects
+- **LLM-Based Analysis Automation (Ollama, n8n)** *(Jan 2026 – May 2026)*
+  - Built an automated analysis system using a local LLM (Mistral via Ollama)
+  - Orchestrated n8n workflows integrating 10+ data sources
+  - Reduced manual analysis time by 60% through automated report generation and email delivery
 
-### 🚀 Projets
-- **Système de Gestion d’Hôtellerie**  
-  - Langages : Java, Python, PHP, SQL
-  - Création de bases de données, système d'authentification, gestion des informations via un serveur web
+- **BI Dashboard – Commercial Performance Analysis** *(Jan 2025 – Apr 2025)*
+  - Designed a BI dashboard tracking 500+ insurance contracts
+  - Visualized 3 key KPIs (revenue, loss ratio, number of contracts)
+  - Cut analysis time by 40% through report automation
+  - Technologies: Power BI, DAX, Power Query
 
-- **Système de Recommandation de Films**  
-  - Langage : Python
-  - Utilisation du modèle "Cosine Similarity" pour recommander des films en fonction des préférences de l’utilisateur
+- **Movie Recommendation System (Content-Based)** *(Sep 2024 – Oct 2024)*
+  - Built a recommendation engine using cosine similarity (TF-IDF)
+  - Processed and vectorized 10,000+ movies
+  - Achieved a Precision@10 of 70%
+  - Technologies: Python, Pandas, NumPy, Scikit-learn, NLP
 
-- **Site de Transport**  
-  - Langages : PHP, HTML, XML
-  - Intégration API et manipulation de jeu de données pour gérer des informations de transport
+### 💼 Professional Experience
+- **Fixed-Term Contract – Junior Application & Digital Projects Engineer (Data & Scripting focus)** @ INSEI *(Suresnes / Saint-Germain-en-Laye)*
+  - Developed ETL pipelines (Python, VBA) to process 10,000+ corrupted Excel rows
+  - Structured and normalized datasets for SQL integration
+  - Built a RAG system with LLM integration
+  - Developed JavaScript tools connecting business APIs with LLMs
 
-### 💼 Expériences Professionnelles
-- **Archiviste** chez GEVERS (Paris La Défense)  
-  - Archivage et gestion des données pour faciliter l’organisation interne
-- **Agent Logistique** chez JCB Services  
-  - Gestion des flux de marchandises et des bases de données d'inventaire
+### 🎓 Education
+- **Bachelor's Degree in Computer Science** – CY Cergy Paris Université *(2022 – 2025)*
+- **Machine Learning & Deep Learning Training** – DAWAN *(2025)*
 
-### 🌍 Langues
-- Français (natif)
-- Anglais (niveau B2)
-
-### ⚡ Atouts
-- Autodidacte et curieux 🤓
-- Rigoureux et méthodique 🛠️
-- Esprit d'équipe 🤝
-- Passionné par la culture, le sport et les jeux vidéo 🎮
+### 🌍 Languages
+- French (Native)
+- English (B1)
 
 ### 📫 Contact
-- **Email** : [ja.cheballah@gmail.com](mailto:ja.cheballah@gmail.com)
+- **Email**: [ja.cheballah@gmail.com](mailto:ja.cheballah@gmail.com)
 
-Merci de visiter mon profil ! N'hésitez pas à explorer mes projets et à me contacter pour échanger ou collaborer !
+Thanks for visiting my profile! Feel free to explore my projects and reach out to collaborate!
